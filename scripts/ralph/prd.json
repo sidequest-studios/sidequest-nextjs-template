@@ -1,0 +1,19 @@
+{
+  "branchName": "ralph/example-feature",
+  "userStories": [
+    {
+      "id": "US-001",
+      "title": "Example: Add hello world component",
+      "acceptanceCriteria": [
+        "HelloWorld component in src/components/hello-world.tsx",
+        "Displays 'Hello, World!' text",
+        "Uses Button component from shadcn/ui",
+        "bun lint passes",
+        "bun typecheck passes"
+      ],
+      "priority": 1,
+      "passes": false,
+      "notes": "This is an example story. Replace with your actual tasks."
+    }
+  ]
+}

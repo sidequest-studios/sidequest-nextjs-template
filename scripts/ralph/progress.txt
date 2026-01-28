@@ -1,0 +1,13 @@
+# Ralph Progress Log
+
+## Codebase Patterns
+
+<!-- Add discovered patterns here as you work -->
+
+---
+
+## Session Start
+
+Starting new Ralph session. Edit prd.json with your tasks and run:
+- `./scripts/ralph/ralph-once.sh` for HITL mode
+- `./scripts/ralph/ralph.sh 10` for AFK mode (10 iterations)
